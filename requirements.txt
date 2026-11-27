@@ -1,1 +1,0 @@
-Go to share.streamlit.io, sign in with GitHub, select your nse-screener repo and app.py, and tap Deploy
